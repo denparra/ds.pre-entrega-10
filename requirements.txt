@@ -1,0 +1,6 @@
+pandas>=2.2,<4.0
+scikit-learn>=1.4,<2.0
+matplotlib>=3.8,<4.0
+notebook>=7.0,<8.0
+nbconvert>=7.0,<8.0
+ipykernel>=6.0,<7.0
